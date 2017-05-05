@@ -7,7 +7,8 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	cout<<"bazara 0"<<endl;
+	int a=0;
+	cout<<"bazara "<<a<<endl;
 	return 0;
 }
 
